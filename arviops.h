@@ -10,6 +10,13 @@ sort(){ha nincs feltétel csak növekvő, ha kap predikátumot, akkor aszerint},
 és egy kis extra, hogy hogyan lehet úgy megírni, hogy ne kelljen tömb méretét átadni
 */
 
+/*
+githubok:
+Szelethus
+barnabaas24
+p-bence
+*/
+
 #ifndef ARVIOPS
 #define ARVIOPS
 
